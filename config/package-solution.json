@@ -3,20 +3,24 @@
   "solution": {
     "name": "asset-deployment-webpart-client-side-solution",
     "id": "38b2e881-0e48-498a-9366-cbf8c4dc7be3",
-    "version": "1.0.0.0",
+    "version": "2.0.0.0",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "features": [{
       "title": "asset-deployment-webpart-client-side-solution",
       "description": "asset-deployment-webpart-client-side-solution",
       "id": "523fe887-ced5-4036-b564-8dad5c6c6e24",
-      "version": "1.0.0.0",
+      "version": "2.0.0.0",
       "assets": {
         "elementManifests": [
-          "elements.xml"
+          "elements.xml",
+          "elements-v2.xml"
         ],
         "elementFiles": [
           "schema.xml"
+        ],
+        "upgradeActions": [
+          "upgrade-actions-v2.xml"
         ]
       }
     }]
