@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## asset-deployment-webpart
 
 This is where you include your WebPart documentation.
@@ -20,12 +19,14 @@ This package produces the following:
 
 ### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
-=======
-# ProvisionSharePointAssets-
-Provision SharePoint assets from your SharePoint client-side web part - Tutorial
->>>>>>> 9cf50d5b31214df491ccddd66bc3c68aa2000337
+```bash
+* gulp clean - TODO
+* gulp test - TODO
+* gulp serve - TODO
+* gulp bundle - TODO
+* gulp package-solution - TODO
+```
+***
+![image](https://user-images.githubusercontent.com/19554935/60400682-3b36b300-9b45-11e9-8136-cb95c980acd6.png)
+![image](https://user-images.githubusercontent.com/19554935/60400726-1c84ec00-9b46-11e9-9718-cada3bcaa28c.png)
+***
