@@ -25,3 +25,6 @@ gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
 =======
+***
+![image](https://user-images.githubusercontent.com/19554935/60400682-3b36b300-9b45-11e9-8136-cb95c980acd6.png)
+***
