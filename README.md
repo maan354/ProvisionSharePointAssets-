@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## asset-deployment-webpart
 
 This is where you include your WebPart documentation.
@@ -26,6 +25,3 @@ gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
 =======
-# ProvisionSharePointAssets-
-Provision SharePoint assets from your SharePoint client-side web part - Tutorial
->>>>>>> 9cf50d5b31214df491ccddd66bc3c68aa2000337
