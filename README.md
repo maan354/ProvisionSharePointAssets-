@@ -28,4 +28,5 @@ This package produces the following:
 ```
 ***
 ![image](https://user-images.githubusercontent.com/19554935/60400682-3b36b300-9b45-11e9-8136-cb95c980acd6.png)
+![image](https://user-images.githubusercontent.com/19554935/60400726-1c84ec00-9b46-11e9-9718-cada3bcaa28c.png)
 ***
